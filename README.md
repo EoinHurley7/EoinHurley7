@@ -25,7 +25,7 @@ After completing a BSc (Hons) in Physics Technology — with a focus on programm
 Coming soon — I'm currently working on several personal data projects involving:
 - Final Year Project 
 - Airbnb Analyais
-- 
+
 📌 Stay tuned — I’ll be sharing these soon!
 
 ---
