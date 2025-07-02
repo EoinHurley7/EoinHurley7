@@ -24,7 +24,7 @@ After completing a BSc (Hons) in Physics Technology — with a focus on programm
 
 Coming soon — I'm currently working on several personal data projects involving:
 - Final Year Project 
-- Airbnb Analyais
+- Dublin City Inside Airbnb Analysis https://github.com/EoinHurley7/airbnb_dublin_data_analysis
 
 📌 Stay tuned — I’ll be sharing these soon!
 
