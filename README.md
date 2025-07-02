@@ -1,16 +1,41 @@
-<h1 align="center">Hi 👋, I'm Eóin Hurley</h1>
-<h3 align="center">An aspiring data scientist/analyst</h3>
+# 👋 Hi, I'm Eóin Hurley
 
-- 📫 How to reach me **eoinhurley7@gmail.com**
+I'm a Physics graduate from TU Dublin, currently building a career in **data analytics and data science**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eóin-hurley-51ab22255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eóin-hurley-51ab22255" height="30" width="40" /></a>
-<a href="https://kaggle.com/eoinhurley7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eoinhurley7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/eoinhurley7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eoinhurley7" height="30" width="40" /></a>
-</p>
+After completing a BSc (Hons) in Physics Technology — with a focus on programming for computational physics, Python automation, and data visualisation — I’ve been diving deep into real-world data tools like **Python, SQL, Power BI, Git, and REST APIs**. I'm especially passionate about using data to explore real-world systems, solve complex problems, and make better decisions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eoinhurley7&show_icons=true&locale=en&layout=compact" alt="eoinhurley7" /></p>
+## 🔧 Skills & Tools
+- **Languages & Libraries**: Python (pandas, NumPy, matplotlib, seaborn), SQL, C, MATLAB  
+- **Data & Visualisation**: Power BI, Excel, REST APIs, Git/GitHub  
+- **Core Competencies**: Data cleaning · EDA · Dashboarding · Automation · Technical reporting
+
+---
+
+## 📌 What I'm Working On
+- 🚀 Building portfolio projects around real public datasets
+- 🧠 Currently seeking an entry level data role  
+- 📊 Expanding my Python, SQL, and Power BI dashboarding skills
+  
+---
+
+## 📂 Featured Projects
+
+Coming soon — I'm currently working on several personal data projects involving:
+- Final Year Project 
+- Airbnb Analyais
+- 
+📌 Stay tuned — I’ll be sharing these soon!
+
+---
+
+## 🤝 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eóin-hurley-51ab22255)  
+- 📫 eoinhurley7@gmail.com  
+- 🌍 Based in Ireland | Open to remote roles
+
+---
+
+Thanks for stopping by!
